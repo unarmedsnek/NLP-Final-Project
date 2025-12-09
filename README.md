@@ -190,4 +190,4 @@ See `report.md` for detailed interpretation.
 
 ## 👥 Contributors
 
-NLP Final Project Team
+NLP Final Project Team Emilijus Kanapeckas, Lucca Moura Arantes, Moaz Ashry
