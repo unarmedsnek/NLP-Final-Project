@@ -1,0 +1,28 @@
+Character,Role,Speeches,Total Words,Category,RoleCategory,Faction
+Agamemnon,king,31,7264,major,leader,greek
+Achilles,hero,40,4582,major,protagonist,greek
+Hector,hero,27,2838,major,protagonist,trojan
+Zeus,god,31,2757,major,divine,olympian
+Menelaus,king,8,1507,major,leader,greek
+Odysseus,hero,13,1487,major,protagonist,greek
+Nestor,advisor,9,1154,major,leader,greek
+Hera,god,20,1134,major,divine,olympian
+Diomedes,hero,13,1024,major,protagonist,greek
+Athena,god,12,886,major,divine,olympian
+Ajax the Greater,fighter,9,811,major,warrior,greek
+Aeneas,hero,4,811,major,protagonist,trojan
+Priam,king,11,789,major,leader,trojan
+Patroclus,helper,9,556,major,supporter,greek
+Hephaestus,god,7,466,major,divine,olympian
+Apollo,god,6,452,major,divine,olympian
+Thetis,god,8,424,major,divine,olympian
+Poseidon,god,2,356,minor,divine,olympian
+Death,minor_deity,1,318,minor,divine,olympian
+Sleep,minor_deity,2,300,minor,divine,olympian
+Aphrodite,god,6,232,major,divine,olympian
+Paris,fighter,2,224,minor,warrior,trojan
+Helen,queen,3,168,minor,leader,trojan
+Hermes,god,2,150,minor,divine,olympian
+Iris,god,3,98,minor,divine,olympian
+Hecuba,queen,1,62,minor,leader,trojan
+Ares,god,1,35,minor,divine,olympian

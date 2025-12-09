@@ -1,0 +1,3 @@
+Epic,Total Characters,Major Characters,Minor Characters,Major Within-Group Similarity,Minor Within-Group Similarity,Between-Group Similarity,H1 p-value,H1 Supported
+Iliad,26,18,8,0.4756004887339507,0.37421289045412803,0.40821619842763174,4.200755169067382e-06,True
+Odyssey,17,11,6,0.4558990965887494,0.3027287401160958,0.35132881958900536,5.900330529483248e-05,True

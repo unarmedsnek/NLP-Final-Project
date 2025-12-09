@@ -1,0 +1,19 @@
+Character,Role,Speeches,Total Words,Category,RoleCategory,Faction
+Odysseus,hero,87,6592,major,protagonist,ithacan
+Telemachus,helper,76,4891,major,supporter,ithacan
+Eumaeus,helper,21,1494,major,supporter,ithacan
+Penelope,helper,18,1334,major,supporter,ithacan
+Athena,god,17,1332,major,divine,olympian
+Antinous,antagonist,16,1065,major,antagonist,suitor
+Zeus,god,9,755,major,divine,olympian
+Arete,helper,2,668,minor,supporter,phaeacian
+Agamemnon,shade,4,449,major,supernatural,shade
+Alcinous,helper,8,428,major,supporter,phaeacian
+Polyphemus,antagonist,3,259,major,antagonist,monster
+Eurymachus,antagonist,4,252,major,antagonist,suitor
+Circe,helper,2,245,minor,supporter,magical
+Achilles,shade,2,93,minor,supernatural,shade
+Calypso,helper,1,86,minor,supporter,magical
+Melanthius,antagonist,2,75,minor,antagonist,ithacan
+Poseidon,god,2,74,minor,divine,olympian
+Hermes,god,1,10,minor,divine,olympian

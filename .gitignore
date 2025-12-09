@@ -1,6 +1,71 @@
-# Ignore data folder and heavy pptx files
+# =============================================================================
+# NLP Final Project - Comprehensive .gitignore
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# Project-specific ignores
+# -----------------------------------------------------------------------------
+# Data folder (large text files from Project Gutenberg)
 data/
+
+# Heavy presentation files
 slides/*.pptx
+
+# Vector databases (can be large, regenerated from code)
+vector_databases/
+*.faiss
+*.index
+
+# -----------------------------------------------------------------------------
+# NLP / Machine Learning specific
+# -----------------------------------------------------------------------------
+# Model caches (HuggingFace, sentence-transformers, etc.)
+.cache/
+~/.cache/huggingface/
+~/.cache/torch/
+models/
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Sentence transformers cache
+sentence_transformers/
+
+# spaCy models (can be downloaded via requirements)
+# en_core_web_sm/
+# en_core_web_md/
+# en_core_web_lg/
+
+# NLTK data
+nltk_data/
+
+# Gensim models
+*.model
+*.model.wv.vectors_ngrams.npy
+
+# TensorFlow/Keras
+*.pb
+saved_model/
+logs/
+tensorboard_logs/
+
+# PyTorch
+*.pt
+*.pth
+checkpoints/
+
+# Weights and Biases
+wandb/
+
+# MLflow
+mlruns/
+
+# Large result files that can be regenerated
+# Uncomment if results become too large:
+# results/figures/*.png
+# results/tables/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
