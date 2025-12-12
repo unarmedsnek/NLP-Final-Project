@@ -390,8 +390,8 @@ A character is **major** if they have:
 
 | Epic | Major | Minor |
 |------|-------|-------|
-| Iliad | 18 | 8 |
-| Odyssey | 11 | 6 |
+| Iliad | 18 | 9     |
+| Odyssey | 11 | 7     |
 
 ---
 
